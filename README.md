@@ -1,10 +1,9 @@
-# Selected personal works in data science, Machine Learning, optimization, control theory and more 
+# Selected personal works repository
 ## ------------ NOT CLEAN | NOT PRESENTABLE ------------
 ## ------------ NOT CLEAN | NOT PRESENTABLE ------------
 ## ------------ NOT CLEAN | NOT PRESENTABLE ------------
 
-
-For future reference, re-usability and showcase.
+Selected personal works in Data Science, Machine Learning, Optimization, Control Theory, robotics and more. For future reference, re-usability and showcase.
 
 ## Files description 
 
