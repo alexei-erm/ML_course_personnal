@@ -1,4 +1,4 @@
-# Selected personal works in data science, optimization and control theory
+# Selected personal works in data science, Machine Learning, optimization, control theory and more
 
 For future reference and re-usability
 
