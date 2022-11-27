@@ -8,6 +8,7 @@ Selected personal code in :
 - Optimization
 - Control Theory, Robotics
 - and more...
+
 For future reference, re-usability and showcase. Languages used: MATLAB and python (numpy, pytorch)
 
 ## Files description 
