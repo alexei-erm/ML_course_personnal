@@ -33,3 +33,7 @@ Contains some work done from the afformentioned course.
 *still needs a README.md file + some cleaning fo what's actually useful
 
 ---
+
+## ------------ NOT CLEAN | NOT PRESENTABLE ------------
+## ------------ NOT CLEAN | NOT PRESENTABLE ------------
+## ------------ NOT CLEAN | NOT PRESENTABLE ------------
