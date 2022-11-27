@@ -19,3 +19,11 @@ dhjfjhfdshjksdfjkhdfshjkfsdhjdsfkhjfsd
 *finance, hedging for derivatives, machine learning, regression, deep learning, artificial neural networks, reinforcement learning, intelligent agents*
 
 ---
+
+### `MGT-302-data-driven-business-analytics`
+Contains some work done from the afformentioned course. 
+
+#### keywords / concepts implemented : 
+*finance, asset pricing, machine learning, regression, k-means, SVM*
+
+---
