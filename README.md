@@ -3,7 +3,12 @@
 ## ------------ NOT CLEAN | NOT PRESENTABLE ------------
 ## ------------ NOT CLEAN | NOT PRESENTABLE ------------
 
-Selected personal works in Data Science, Machine Learning, Optimization, Control Theory, robotics and more. For future reference, re-usability and showcase.
+Selected personal code in :
+- Data Science (Machine Learning, Deep Learning, Reinforcement Learning)
+- Optimization
+- Control Theory, Robotics
+- and more...
+For future reference, re-usability and showcase. Languages used: MATLAB and python (numpy, pytorch)
 
 ## Files description 
 
