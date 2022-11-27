@@ -1,4 +1,6 @@
-# Selected personal works in data science, Machine Learning, optimization, control theory and more
+# Selected personal works in data science, Machine Learning, optimization, control theory and more 
+## ------------ NOT CLEAN | NOT PRESENTABLE ------------
+
 
 For future reference, re-usability and showcase.
 
@@ -25,5 +27,7 @@ Contains some work done from the afformentioned course.
 
 #### keywords / concepts implemented : 
 *finance, asset pricing, machine learning, regression, k-means, SVM*
+
+*still needs a README.md file + some cleaning fo what's actually useful
 
 ---
