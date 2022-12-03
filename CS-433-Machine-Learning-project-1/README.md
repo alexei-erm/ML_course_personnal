@@ -83,12 +83,12 @@ This file allowed to run mutiple repetitions of each method described in "our pr
 
 This file allows to calculate the accuracy for seven methods of regression and classification coded for this project.
 
-* A. Gradient Descent with MSE
-* B. Stochastic Gradient Descent with MSE
-* C. Least Squares 
-* D. Ridge Regression with cross validation to find best lambda
-* E. Logistic Regression with cross validation to find best lambda
-* F. Regularized Logistic Regression
+* A. Linear Regression with GD
+* B. Linear Regression with SGD
+* C. Closed form Linear Regression (least squares)
+* D. Regularized Linear Regression with hyper-parameter search using k-fold cross-validation
+* E. Logistic Regression 
+* F. Regularized Logistic Regression with hyper-parameter search using k-fold cross-validation
 * G. K-nearest neighbors classification
 
 ---
@@ -99,7 +99,7 @@ This file allows to calculate the accuracy for each method on random train sets,
 ---
 ### `helpers.py`
 
-Helper functions used to load the data and create the csv submission
+Helper functions used to load the data and create the csv submission.
 
 ---
 ### `predictions.csv`
@@ -108,8 +108,10 @@ The exact file that was used for the group's best submission (#204331)
 
 
 ---
-## Authors 
+## Author
 
-* Mathilde Morelli
-* Iris Toye
 * Alexei Ermochkine
+
+*Contributions by*
+* Iris Toye
+* Mathilde Morelli
