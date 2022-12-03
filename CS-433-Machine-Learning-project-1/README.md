@@ -113,5 +113,4 @@ The exact file that was used for the group's best submission (#204331)
 * Alexei Ermochkine
 
 *Contributions for base version by*
-* *Iris Toye*
-* *Mathilde Morelli*
+* *I. Toye and M. Morelli*
