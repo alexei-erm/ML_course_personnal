@@ -108,10 +108,10 @@ The exact file that was used for the group's best submission (#204331)
 
 
 ---
-## Author
+## Author (cleaned and updated current version)
 
 * Alexei Ermochkine
 
-*Contributions by*
+*Contributions for base version by*
 * Iris Toye
 * Mathilde Morelli
