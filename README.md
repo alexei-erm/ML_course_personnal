@@ -9,7 +9,7 @@ Selected personal code in :
 - Control Theory, Robotics
 - and more...
 
-For future reference, re-usability and showcase. Languages used: MATLAB and python (numpy, pytorch)
+For future reference, re-usability and showcase. Languages used: MATLAB and Python (NumPy, PyTorch)
 
 ## Files description 
 
