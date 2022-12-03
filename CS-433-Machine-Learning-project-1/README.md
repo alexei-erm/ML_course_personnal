@@ -11,7 +11,7 @@ Preprocessing can include different combinations of the following methods: (1) r
 
 Logistic Regressions are subsequently implemented and legitimized by means of a 7-fold cross validation.
 
-The entire project only uses python libraries Numpy and Matplolib (for visualisation). 
+The entire project only uses python libraries Numpy and Matplotlib (for visualisation). 
 
 ### Please add the files train.csv and test.csv directly in same folder as run.py and all the other files.
 
