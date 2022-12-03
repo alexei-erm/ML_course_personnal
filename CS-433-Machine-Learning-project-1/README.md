@@ -1,6 +1,6 @@
 # EPFL CS-433: PROJECT 1 "Higgs Boson Challenge"
 
-**NOTE: This is a (almost unmodified) copy of the repository https://github.com/CS-433/ml-project-1-no_cs_members.git**
+**NOTE: This is an updated version of the code found in the repository https://github.com/CS-433/ml-project-1-no_cs_members.git** (old version).
 Refer to `project1_description.pdf` for the project's description, and to `CS-433-ML-Project-1-report.pdf` for the final written report.
 
 The Higgs boson is an elementary particle which explains why other particles have a mass. Measurements during high-speed collisions of protons at CERN were made public with the aim of predicting whether the collision by-products are an actual boson or background noise.
